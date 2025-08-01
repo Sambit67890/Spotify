@@ -1,1 +1,1 @@
-# Spotify
+This project is a front-end clone of the Spotify landing page, created using only HTML and CSS. It recreates the design and layout of the original Spotify homepage, providing a clean, responsive, and visually appealing interface for learning and practicing front-end development.
